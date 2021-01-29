@@ -1,6 +1,6 @@
 import asyncio
 import aiohttp
-# import time
+import time
 
 
 async def fetchFromGoogle():
